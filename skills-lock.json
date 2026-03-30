@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "markdown-to-pdf": {
+      "source": "duc01226/easyplatform",
+      "sourceType": "github",
+      "computedHash": "811c15488232eb0dc003191a5c9416e205996433601e9b519b85a6e23cd6b015"
+    }
+  }
+}
